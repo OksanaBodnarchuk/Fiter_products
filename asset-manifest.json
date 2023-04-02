@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//oksanabodnarchuk.github.io/Fiter_products/static/css/main.6e1b1dcc.css",
+    "main.js": "//oksanabodnarchuk.github.io/Fiter_products/static/js/main.a856e24e.js",
+    "index.html": "//oksanabodnarchuk.github.io/Fiter_products/index.html",
+    "main.6e1b1dcc.css.map": "//oksanabodnarchuk.github.io/Fiter_products/static/css/main.6e1b1dcc.css.map",
+    "main.a856e24e.js.map": "//oksanabodnarchuk.github.io/Fiter_products/static/js/main.a856e24e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e1b1dcc.css",
+    "static/js/main.a856e24e.js"
+  ]
+}
